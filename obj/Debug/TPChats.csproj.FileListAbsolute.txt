@@ -79,7 +79,6 @@ C:\Users\prige\source\repos\TPChats\TPChats\bin\fr\System.Web.Razor.resources.dl
 C:\Users\prige\source\repos\TPChats\TPChats\bin\fr\System.Web.WebPages.resources.dll
 C:\Users\prige\source\repos\TPChats\TPChats\bin\fr\System.Web.WebPages.Deployment.resources.dll
 C:\Users\prige\source\repos\TPChats\TPChats\bin\fr\System.Web.WebPages.Razor.resources.dll
-C:\Users\prige\source\repos\TPChats\TPChats\obj\Debug\TPChats.csprojAssemblyReference.cache
 C:\Users\prige\source\repos\TPChats\TPChats\obj\Debug\TPChats.csproj.CopyComplete
 C:\Users\prige\source\repos\TPChats\TPChats\obj\Debug\TPChats.dll
 C:\Users\prige\source\repos\TPChats\TPChats\obj\Debug\TPChats.pdb
